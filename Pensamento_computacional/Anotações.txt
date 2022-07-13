@@ -1,0 +1,24 @@
+## Pensamento Computacional
+
+### Significado
+> "Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador."
+
+### Características:
+- Sistemático e eficiente: Utilizado para formulação e resolução de problemas;
+- Capacidade de resolução: Tanto para humanos, como para máquinas;
+- Habilidade generalista: Diversas áreas;
+- Baseado em 4 pilares:
+	- Decomposição;
+	- Reconhecimento de padrões;
+	- Abstração;
+	- Design de algoritmos.
+- Processo contínuo:
+	1. Definir uma solução;
+	2. Testar a solução;
+	3. Aperfeiçoar a solução. (Retorna para o 1.)
+
+### Competências:
+- Pensamento sistemático;
+- Colaboração dentro da equipe;
+- Criatividade e design;
+- Facilitador.
